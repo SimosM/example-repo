@@ -12,4 +12,4 @@ ESTE ES UN MODIFICACION ERRONEA al código .
 
 ERROR BUG mal
 
-## adding Nwe commentary line
+## adding new commentary line
